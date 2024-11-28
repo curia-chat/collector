@@ -1,3 +1,13 @@
+# Ignore collector specific files and settings
+settings.py
+caselist_csv/
+caselist_csv_c1/
+caselist_csv_c2/
+judgment_files/
+chromedriver-linux64/
+chromedriver-linux64.zip
+*.old
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
