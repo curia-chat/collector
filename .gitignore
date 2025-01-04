@@ -8,6 +8,7 @@ chromedriver-linux64/
 chromedriver-linux64.zip
 *.old
 ca-certificates.crt
+not_found_cases.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
